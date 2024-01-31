@@ -16,9 +16,9 @@
 
 ## Screenshots
 
-![Screenshot 1](.screen3.png)
-![Screenshot 2](./screen2.png)
-![Screenshot 3](./screen1.png)
+![Screenshot 1](.screen3.jpg)
+![Screenshot 2](./screen2.jpg)
+![Screenshot 3](./screen1.jpg)
 
 
 ## Features
