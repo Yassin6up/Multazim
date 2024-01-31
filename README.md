@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+<div style="display: flex; width:100% ; flex-wrap: wrap; justify-content: space-evenly;">
   <img src="./screen3.jpg" alt="Screenshot 1" style="height: 300px; margin: 10px;">
   <img src="./screen1.jpg" alt="Screenshot 2" style="height: 300px; margin: 10px;">
   <img src="./screen2.jpg" alt="Screenshot 3" style="height: 300px; margin: 10px;">
