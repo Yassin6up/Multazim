@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "Multazim",
+    "slug": "Multazim",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "#3D3B40",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3D3B40"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch",
+          "remote-notification"
+        ]
+      }
+    },
+    "android": {
+      "permissions": [
+        "NOTIFICATIONS"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#3D3B40"
+      },
+      "package": "com.Multazim.Multazim"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "backgroundFetch": {
+      "enabled": true
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "044168b3-e9c1-4771-9d55-0e728b4afd33"
+      }
+    }
+  }
+}
