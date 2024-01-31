@@ -6,7 +6,8 @@
 
 ## Thumbnail
 
-![Multazim Thumbnail](./assets/logo.png)
+
+<img src="./assets/logo.png" alt="Thumbnail" style="max-width: 200px;">
 
 ### Developer Information
 
