@@ -16,9 +16,11 @@
 
 ## Screenshots
 
-![Screenshot 1](.screen3.jpg)
-![Screenshot 2](./screen2.jpg)
-![Screenshot 3](./screen1.jpg)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+  <img src="screenshots/screenshot1.jpg" alt="Screenshot 1" style="max-width: 300px; margin: 10px;">
+  <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" style="max-width: 300px; margin: 10px;">
+  <img src="screenshots/screenshot3.jpg" alt="Screenshot 3" style="max-width: 300px; margin: 10px;">
+</div>
 
 
 ## Features
